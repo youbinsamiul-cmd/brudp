@@ -1,3 +1,4 @@
+aiohttp
 httpx
 google-play-scraper
 pycryptodome
